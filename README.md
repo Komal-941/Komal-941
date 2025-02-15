@@ -2,7 +2,8 @@
 <h3 align="center">Data Analyst with expertise in SQL, Python, Power BI, Tableau, Excel.</h3>
 <img align= "right" alt="coding" width ="350" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=komal-941&label=Profile%20views&color=0e75b6&style=flat" alt="komal-941" /> </p>
-
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="VERTICAL" data-vanity="komal-s-shelar" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/komal-s-shelar?trk=profile-badge">Komal Shelar</a></div>
+              
 - 🔭 I’m currently working on **Data Analytics Projects: Building and refining Power BI dashboards, performing data analysis using Python, and enhancing SQL queries.**
 
 - 🌱 I’m currently learning **Data Analysis & Business Intelligence**
